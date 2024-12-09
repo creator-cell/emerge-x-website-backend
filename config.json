@@ -1,0 +1,8 @@
+{
+    "env": "local",
+    "mongoDB": {
+        "userName": "add the user name here",
+        "password": "Add the password here"
+    },
+    "port": 3000
+}
